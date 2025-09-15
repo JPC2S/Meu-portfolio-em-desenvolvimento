@@ -3,7 +3,7 @@
 Bem-vindo ao meu portfólio online! 🚀  
 Este repositório contém os arquivos do site que criei para apresentar um pouco sobre mim, minha jornada na programação e os projetos que estou desenvolvendo.  
 
-🔗 **Acesse aqui:** https://<seu-usuario>.github.io/<Embed S2/
+🔗 **Acesse aqui:** https://jpc2s.github.io/Meu-portfolio-em-desenvolvimento/
 
 ---
 
